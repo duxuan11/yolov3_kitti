@@ -26,7 +26,7 @@ img/street.jpg
 ```
 1. 运行predict.py，输入  
 ```python
-img/street.jpg
+img/xxx
 ```
 2. 在predict.py里面进行设置可以进行fps测试和video视频检测。  
 
