@@ -12,7 +12,8 @@
 训练所需的yolo_weights.pth可以在百度云下载。  
 链接: https://pan.baidu.com/s/1ncREw6Na9ycZptdxiVMApw   
 提取码: appk
-kitti
+
+kitti数据集下载
 只需要下载Download left color images of object data set (12 GB)和对应的标签Download training labels of object data set (5 MB)即可。
 
 ## 预测步骤
